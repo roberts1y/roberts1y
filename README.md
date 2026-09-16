@@ -1,3 +1,3 @@
 Hi, I’m Robert 👋  
-Computer Engineering @ UMD | Embedded Systems | Cybersecurity  
+Computer Engineering @ UMD
 🔗 [LinkedIn](https://www.linkedin.com/in/snellrobert06)
